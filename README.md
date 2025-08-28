@@ -9,7 +9,6 @@ The Banking Portfolio Insights Dashboard is a BI solution designed to help senio
 📊 Power BI Desktop – Interactive dashboards and reports
 📂 Power Query – ETL for cleaning & transforming customer, loan, and deposit datasets
 🧮 DAX (Data Analysis Expressions) – KPIs such as LDR, Gender Mix %, Concentration %
-📝 SQL (MySQL / PostgreSQL) – Data extraction, joins, aggregations for customer, loans, and deposits prior to BI modeling
 📝 Data Modeling – Star-schema linking Loans, Deposits, Customers, Branches, and Products
 📁 Formats – .pbix for development, .png exports for sharing with stakeholders
 
