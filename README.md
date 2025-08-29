@@ -116,3 +116,4 @@ Deposits: 49.6% Women
 
 <img width="1381" height="815" alt="Screenshot of Home page" src="https://github.com/user-attachments/assets/b9ecb473-bd45-4865-9be7-d204c1f057bf" />
 
+<img width="1352" height="805" alt="Screenshot of Loan Analysis" src="https://github.com/user-attachments/assets/69723d50-3bc9-4fa9-ada7-6bd266325fa2" />
