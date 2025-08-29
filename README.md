@@ -112,3 +112,7 @@ Deposits: 49.6% Women
 💡 Income Band Strategy: Middle-income segment is the backbone → target with bundled offers (salary + SME loans + credit cards).
 
 💡 Data Hygiene: Engagement Account (4.49B) > Deposits (3.77B) → needs definition alignment before board reporting.
+
+
+<img width="1381" height="815" alt="Screenshot of Home page" src="https://github.com/user-attachments/assets/b9ecb473-bd45-4865-9be7-d204c1f057bf" />
+
